@@ -1,0 +1,3 @@
+Project: E.Lname  
+Select: P.Pname=‘Aquarius’ AND P.Pnumber=W.Pno AND E.Essn=W.Ssn AND E.Bdate>’1957-12-31’  
+WORKS_ON W EMPLOYEE E PROJECT P  

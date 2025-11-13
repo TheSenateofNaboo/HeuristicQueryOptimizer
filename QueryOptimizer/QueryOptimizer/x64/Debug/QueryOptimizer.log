@@ -1,6 +1,6 @@
 ﻿  main.cpp
-C:\Users\Gunner\Documents\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\QueryOptimizer\QueryOptimizer\main.cpp(28,18): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Gunner\Documents\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\QueryOptimizer\QueryOptimizer\main.cpp(41,33): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Gunner\Documents\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\QueryOptimizer\QueryOptimizer\main.cpp(49,27): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Gunner\Documents\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\QueryOptimizer\QueryOptimizer\main.cpp(54,31): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
-  QueryOptimizer.vcxproj -> C:\Users\Gunner\Documents\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\QueryOptimizer\x64\Debug\QueryOptimizer.exe
+C:\Users\Retro\source\repos\queryOptimizer\QueryOptimizer\main.cpp(28,18): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Retro\source\repos\queryOptimizer\QueryOptimizer\main.cpp(41,33): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Retro\source\repos\queryOptimizer\QueryOptimizer\main.cpp(49,27): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Retro\source\repos\queryOptimizer\QueryOptimizer\main.cpp(54,31): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  QueryOptimizer.vcxproj -> C:\Users\Retro\source\repos\queryOptimizer\x64\Debug\QueryOptimizer.exe
